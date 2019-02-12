@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\bin\Debug\netcoreapp2.0\EvidencijaGostiju.deps.json
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\bin\Debug\netcoreapp2.0\EvidencijaGostiju.runtimeconfig.json
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\bin\Debug\netcoreapp2.0\EvidencijaGostiju.runtimeconfig.dev.json
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\bin\Debug\netcoreapp2.0\EvidencijaGostiju.dll
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\bin\Debug\netcoreapp2.0\EvidencijaGostiju.pdb
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.csprojResolveAssemblyReference.cache
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.AssemblyInfo.cs
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.dll
+C:\Users\Marko\source\repos\EvidencijaGostiju\EvidencijaGostiju\obj\Debug\netcoreapp2.0\EvidencijaGostiju.pdb
